@@ -1,0 +1,7 @@
+.cache
+.vscode
+build
+events.log
+pa1.tar.gz
+pipes.log
+.DS_Store
